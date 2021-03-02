@@ -30,7 +30,8 @@ if __name__ == "__main__":
 #### build docker build . -t mrpihma/docker:v6
 #### start sudo docker run  --rm -p 5000:5000 mrpihma/docker:v6
 
- ## History of testing commands
-![alt text](https://yadi.sk/i/sIBhMkOwy0VyDw)
-![alt text](https://yadi.sk/i/8RgnC3hvPZzTIQ)
+## History of testing commands
+
+![alt text](https://github.com/MsWik/DZ5.Docker/blob/main/2021-03-02_09-51-53.png)
+![alt text](https://github.com/MsWik/DZ5.Docker/blob/main/2021-03-02_09-52-31.png)
  
