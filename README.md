@@ -30,6 +30,8 @@ if __name__ == "__main__":
 #### build docker build . -t mrpihma/docker:v6
 #### start sudo docker run  --rm -p 5000:5000 mrpihma/docker:v6
 
+## Dockerhub/Github integration
+![alt text](https://github.com/MsWik/DZ5.Docker/blob/main/2021-03-02_10-07-37.png)
 ## History of testing commands
 
 ![alt text](https://github.com/MsWik/DZ5.Docker/blob/main/2021-03-02_09-51-53.png)
